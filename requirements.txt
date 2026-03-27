@@ -1,10 +1,8 @@
-# Minimal requirements for FastAPI backend deployment
 fastapi==0.129.0
 uvicorn==0.40.0
-Flask==3.1.2
-flask-cors==6.0.2
 SQLAlchemy==2.0.46
 psycopg2-binary==2.9.11
 python-jose==3.5.0
 passlib==1.7.4
 requests==2.32.3
+python-multipart
